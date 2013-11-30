@@ -1,0 +1,23 @@
+{
+  "name": "petes-quest",
+  "version": "0.0.0",
+  "description": "Puzzle game to celebrate the dutch holiday Sinterklaas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dvberkel/petes-quest.git"
+  },
+  "keywords": [
+    "server",
+    "puzzle",
+    "sinterklaas"
+  ],
+  "author": "Daan van Berkel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dvberkel/petes-quest/issues"
+  }
+}
